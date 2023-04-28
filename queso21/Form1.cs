@@ -16,5 +16,11 @@ namespace queso21
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hola nub" +
+                "");
+        }
     }
 }
